@@ -1,5 +1,10 @@
-## bem vindo(a) ao meu perfil
+## bem vindo(a) ao meu perfil 🌸
+- meu nome é Julia Souza
+- estou me desenvolvendo na Linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desevolvidos
 
+- ## ✨ENTRE EM CONTATO COMIGO ✨
+- 0000111888615x@al.educacao.sp.gov.br
 <!--
 **Jujudrake244/Jujudrake244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
