@@ -1,4 +1,4 @@
-## Hi there 👋
+## bem vindo(a) ao meu perfil
 
 <!--
 **Jujudrake244/Jujudrake244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
